@@ -43,8 +43,5 @@ This project is an interactive **Power BI HR Analytics Dashboard** designed to t
 - Helped **enhance employee retention**  
 - Improved **job satisfaction** and workforce planning  
 - Facilitated **data-driven decisions** to reduce attrition  
-
----
-
 ## 📂 Repository Structure (Optional)
 
